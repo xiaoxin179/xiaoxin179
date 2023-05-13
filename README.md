@@ -1,4 +1,4 @@
-## 我是程序员xiaoxin 🐟
+## 我是程序员xiaoxin 
 
 - 🐧 软件工程菜鸡大学生
 - 👨‍💻 经历：<a href="https://space.bilibili.com/505159848?spm_id_from=333.1007.0.0" target="_blank">菜鸡科班大学生 UP</a>
