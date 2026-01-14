@@ -1,11 +1,4 @@
-## 一只科班软工小扒菜，名曰xiaoxin
-
-- 🐧 软件工程菜鸡大学生
-- 👨‍💻 经历：<a href="https://space.bilibili.com/505159848?spm_id_from=333.1007.0.0" target="_blank">菜鸡科班大学生 UP</a>
-- 🏡 作品：<a href="https://github.com/xiaoxin179" target="_blank">xiaoxin1399</a> 
-- 🌱 干货：<a href="" target="_blank">公众号『 xiaoxin1399 』</a>
-- 😺 视频：<a href="https://space.bilibili.com/505159848?spm_id_from=333.1007.0.0" target="_blank">B站 xiaoxin1399
-- 💬 微信：xiaoxin1399（请备注事由）
+## 一只菜鸟程序员
 
 
 ## 年度报告 ✨
